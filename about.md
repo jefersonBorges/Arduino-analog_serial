@@ -28,7 +28,7 @@ These exercises are a practice of Arduino (C++) language and its electronic sche
 
 ---
 
-## Arduino Digital Practice - 4
+## Arduino Digital Practice - 4 - Analog in and Serial out
 
 ---
 
