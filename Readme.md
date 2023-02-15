@@ -1,8 +1,8 @@
-# About
+# 💬 About
 
 These exercises are a practice of Arduino (C++) language and its electronic schematics inside the discipline of Computing advanced topics 2, belonging to the course of Computer Engineering.
 
-## Content
+## 👨🏽‍💻 Arduino Content
 
 - Arduino Language
   - setup()
@@ -25,6 +25,12 @@ These exercises are a practice of Arduino (C++) language and its electronic sche
   - Potentiometer
   - Temperature sensor TMP36
   - Arduino Uno
+
+---
+
+## 🎯 Project Objectives
+
+- Practice of Arduino Analog in and Serial out.
 
 ---
 
